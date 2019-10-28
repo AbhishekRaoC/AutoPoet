@@ -1,3 +1,3 @@
-# Aiuthor
-AI that is capable of producing fiction books on demand.
+# AutoPoet
+AI that is capable of producing poems on demand.
 
